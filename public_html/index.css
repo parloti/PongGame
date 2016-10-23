@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 21, 2016, 11:09:53 PM
+    Author     : Alex
+*/
+
+.canvas{
+	float: left;
+	margin: 0 50px 0 0;
+}
+.config{
+	padding: 50px 0 0 0;
+}
+#game{
+	width: 600px;
+	height: 400px;
+	border: 1px solid black;
+}
+.playername{
+	float: left
+}
